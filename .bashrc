@@ -188,9 +188,9 @@ alias gc="git commit -m"
 alias gp="git push --set-upstream origin"
 
 ## The Fuck
-export PATH="$HOME/.local/bin:$PATH"
-eval "$(thefuck --alias)"
-
+# export PATH="$HOME/.local/bin:$PATH"
+# eval "$(thefuck --alias)"
+#
 ## Fuzzy finder
 #[ -f ~/.fzf.bash ] && source ~/.fzf.bash
 
